@@ -1,0 +1,2 @@
+This is test with repo public
+Authen by Username and Password
